@@ -1,4 +1,4 @@
-### Data Wrangling & Visualisations
+### Data Wrangling & Visualisation
 
 
 ### Automation
