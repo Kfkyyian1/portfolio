@@ -6,4 +6,4 @@
 
 ### YouTube
 Avo Tutorials is created to document the interesting and cool things I've learned throughout my career/life.
-https://www.youtube.com/@avotutorials/featured
+[Check It Out](https://www.youtube.com/@avotutorials/featured)
