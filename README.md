@@ -1,7 +1,6 @@
 ### Data Wrangling & Visualisation
-1. Exploring World Development Indicators Data
-- [Here](https://kfkyyian1.github.io/wdiexploration/)
-- composing visualisations for cross-sectional, time series and longitudinal data.
+1. Exploring World Development Indicators Data [Here](https://kfkyyian1.github.io/wdiexploration/)
+- Composing visualisations for cross-sectional, time series and longitudinal data
 - Program Used: R 
 
 ### Automation
