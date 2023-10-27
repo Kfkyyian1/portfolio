@@ -1,5 +1,5 @@
 ### Data Wrangling, Analytics & Visualisation
-1. Visualizing Course Status: A Unified Perspective - [Read More]([https://kfkyyian1.github.io/wdiexploration/](https://kfkyyian1.github.io/coursesummary/))
+1. Visualizing Course Status: A Unified Perspective - [Read More](https://kfkyyian1.github.io/coursesummary/)
 - Multiple CSV files were merged in R to capture various course statuses across different schools. SQL techniques were used to manipulate the data. Subsequently, the processed data was visually presented using R visualization methods, delivering an overview of course statuses in diverse educational institutions.
 - Program/File format Used: R, CSV, SQL
 
