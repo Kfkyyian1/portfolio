@@ -12,7 +12,9 @@
 - Program/File format Used: R, CSV, xlsx
 
 ### Automation
-
+Automating the process of sourcing and recommending music artists for events
+- Watch Video [here](https://youtu.be/WNsV_IZjbcw)
+- Apps Used: Zapier, Joyform, Google drive, Gmail, Google Sheets, Google Forms
 
 ### YouTube
 Avo Tutorials is created to document the interesting and cool things I've learned throughout my career/life.
