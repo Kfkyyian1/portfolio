@@ -1,3 +1,8 @@
+### Automation
+Automating the process of sourcing and recommending music artists for events
+- Watch Video [here](https://youtu.be/WNsV_IZjbcw)
+- Apps Used: Zapier, Joyform, Google drive, Gmail, Google Sheets, Google Forms
+
 ### Data Wrangling, Analytics & Visualisation
 1. Visualizing Course Status: A Unified Perspective - [Read More](https://kfkyyian1.github.io/coursesummary/)
 - Multiple CSV files were merged in R to capture various course statuses across different schools. SQL techniques were used to manipulate the data. Subsequently, the processed data was visually presented using R visualization methods, delivering an overview of course statuses in diverse educational institutions.
@@ -10,11 +15,6 @@
 3. World Development Indicators Data - [Read More](https://kfkyyian1.github.io/wdiexploration/)
 - Composing visualisations for cross-sectional, time series and longitudinal data
 - Program/File format Used: R, CSV, xlsx
-
-### Automation
-Automating the process of sourcing and recommending music artists for events
-- Watch Video [here](https://youtu.be/WNsV_IZjbcw)
-- Apps Used: Zapier, Joyform, Google drive, Gmail, Google Sheets, Google Forms
 
 ### YouTube
 Avo Tutorials is created to document the interesting and cool things I've learned throughout my career/life.
