@@ -1,6 +1,6 @@
 ### Automation
-Automating the process of sourcing and recommending music artists for events
-- Watch Video [here](https://youtu.be/WNsV_IZjbcw)
+Automating the process of sourcing and recommending music artists for events - [Read More](https://kfkyyian1.github.io/automate_recommending_artists/)
+- Watch Demo Video [here](https://youtu.be/WNsV_IZjbcw)
 - Apps Used: Zapier, Joyform, Google drive, Gmail, Google Sheets, Google Forms
 
 ### Data Wrangling, Analytics & Visualisation
