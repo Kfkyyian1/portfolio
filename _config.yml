@@ -2,6 +2,6 @@
 #plugins:
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Kristene F.
-description: Aspiring data enthusiast on a learning journey through the vast realm of analytics. With a marketing background and a flair for creative project management, I'm here to explore, experiment, and evolve. Join me in decoding the mysteries of data, one project at a time.
+description: Aspiring data enthusiast with a marketing background and a knack for creative project management. Currently on a continuous learning journey, I am eager to delve into the world of automation to streamline and enhance data processes. Join me as I navigate through the complexities of data, embracing automation to unlock new possibilities and insights, one project at a time.
 show_downloads: False
 theme: jekyll-theme-minimal
