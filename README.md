@@ -3,6 +3,11 @@ Automating the process of sourcing and recommending music artists for events - [
 - Watch Demo Video [here](https://youtu.be/WNsV_IZjbcw)
 - Apps Used: Zapier, Joyform, Google drive, Gmail, Google Sheets, Google Forms
 
+Automated Text Sentiment Analysis Webapp - [Read More](https://github.com/Kfkyyian1/text_sentiment_analysis_app/blob/main/README.md)
+- Webapp Link [here](https://textsentimentanalysisapp.streamlit.app/)
+- Watch Demo Video [here](https://youtu.be/SpA4Y_5F2uQ)
+- Apps/Main Tools: Textblob, Cleantext, Matplotlib, scipy.stats, YouTube API, Streamlit
+
 ### Data Wrangling, Analytics & Visualisation
 1. Tableau Dashboard: Nike's LINE Message Marketing Analysis - [Read More](https://kfkyyian1.github.io/linetableaudashboard/)
 - A dashboard of marketing communication pushes on the brand's profile. The objective is to provide the marketing team with insights into message performance, follower engagement, and trends.
