@@ -8,6 +8,9 @@ Automated Text Sentiment Analysis Webapp - [Read More](https://github.com/Kfkyyi
 - Watch Demo Video [here](https://youtu.be/SpA4Y_5F2uQ)
 - Apps/Main Tools: Textblob, Cleantext, Matplotlib, scipy.stats, YouTube API, Streamlit
 
+First Line of Defense From Ticket Scalpers - [Read More](https://github.com/Kfkyyian1/uipath_automation_cloud_concertickets/tree/main)
+- Apps/Main Tool: UiPath Automation Cloud
+
 ### Data Wrangling, Analytics & Visualisation
 1. Tableau Dashboard: Nike's LINE Message Marketing Analysis - [Read More](https://kfkyyian1.github.io/linetableaudashboard/)
 - A dashboard of marketing communication pushes on the brand's profile. The objective is to provide the marketing team with insights into message performance, follower engagement, and trends.
