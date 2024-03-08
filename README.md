@@ -9,7 +9,7 @@ Automated Text Sentiment Analysis Webapp - [Read More](https://github.com/Kfkyyi
 - Apps/Main Tools: Textblob, Cleantext, Matplotlib, scipy.stats, YouTube API, Streamlit
 
 First Line of Defense From Ticket Scalpers - [Read More](https://github.com/Kfkyyian1/uipath_automation_cloud_concertickets/tree/main)
-- Apps/Main Tool: UiPath Automation Cloud
+- Apps/Main Tool: UiPath Automation Cloud App
 
 ### Data Wrangling, Analytics & Visualisation
 1. Tableau Dashboard: Nike's LINE Message Marketing Analysis - [Read More](https://kfkyyian1.github.io/linetableaudashboard/)
