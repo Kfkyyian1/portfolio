@@ -6,7 +6,7 @@ Automating the process of sourcing and recommending music artists for events - [
 Automated Text Sentiment Analysis Webapp - [Read More](https://github.com/Kfkyyian1/text_sentiment_analysis_app/blob/main/README.md)
 - Webapp Link [here](https://textsentimentanalysisapp.streamlit.app/)
 - Watch Demo Video [here](https://youtu.be/SpA4Y_5F2uQ)
-- Apps/Main Tools: Textblob, Cleantext, Matplotlib, scipy.stats, YouTube API, Streamlit
+- Apps/Main Tools: Textblob, Cleantext, Matplotlib, scipy.stats, YouTube API, Streamlit, Python
 
 First Line of Defense From Ticket Scalpers - [Read More](https://github.com/Kfkyyian1/uipath_automation_cloud_concertickets/tree/main)
 - Apps/Main Tool: UiPath Automation Cloud App
