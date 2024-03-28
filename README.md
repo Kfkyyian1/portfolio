@@ -3,7 +3,7 @@ Automating the process of sourcing and recommending music artists for events - [
 - Watch Demo Video [here](https://youtu.be/WNsV_IZjbcw)
 - Apps Used: Zapier, Joyform, Google drive, Gmail, Google Sheets, Google Forms
 
-Automated Text Sentiment Analysis Webapp - [Read More](https://github.com/Kfkyyian1/text_sentiment_analysis_app/blob/main/README.md)
+Automated Text Sentiment Analysis Webapp - [Read More](https://kfkyyian1.github.io/text_sentiment_analysis_app/)
 - Watch Demo Video [here](https://youtu.be/SpA4Y_5F2uQ)
 - Apps/Main Tools: Textblob, Cleantext, Matplotlib, scipy.stats, YouTube API, Streamlit, Python
 
